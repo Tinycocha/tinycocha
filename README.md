@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  ✨I'M Tinycocha ✨
 
 <!--
 **Tinycocha/tinycocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tinycocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinycocha&show_icons=true&theme=transparent)
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tinycocha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tinycocha's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinycocha&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
